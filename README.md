@@ -2,7 +2,6 @@
 
 <div align="center">
 
-<!-- ANIMASI KETIK-KETIK -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=0096FF&center=true&vCenter=true&width=500&lines=Founder+CiKiZz+Shop+%F0%9F%8E%AE;Fullstack+Developer;Game+Store+Entrepreneur;From+Cirebon+with+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
 
 <br>
@@ -26,22 +25,26 @@
 
 ### 🛠️ Tech Stack
 <p>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white&animation=spin" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
 </p>
 
-### 📊 My Activity - ANTI ERROR 100% HP
+### 📊 My Activity
 
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZetsuXlinee&theme=tokyonight&hide_border=true&fire=0096FF&ring=0096FF&currStreakNum=fff" />
 
-<br>
+<br><br>
 
-<!-- ANIMASI ULAR CONTRIBUSI - INI KEREN BANGET BOS -->
-<img src="https://raw.githubusercontent.com/ZetsuXlinee/ZetsuXlinee/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+<!-- ULAR FIX - SUDAH BENAR REPO NYA -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZetsuXlinee/my-profile/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZetsuXlinee/my-profile/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ZetsuXlinee/my-profile/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
 <br>
 
@@ -61,7 +64,7 @@
 
 **Telegram & WA adalah CS Resmi ✅**
 <br>
-*From Luwung, West Java with ❤️*
+*From West Java*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0096FF,100:00D7FF&height=100&section=footer&text=&fontSize=30&fontColor=fff&animation=fadeIn" />
 
